@@ -96,7 +96,7 @@ if "roster_data" not in st.session_state:
   st.session_state.roster_data = load_roster_data()
 
 # Header
-st.title("🏫 මහා/දෙනු/ සිරිසුමන ද්විභාෂා පිරිවෙන")
+st.title("🏫 මහ/දෙනු/ සිරිසුමන ද්විභාෂා පිරිවෙන")
 st.caption("ශිෂ්‍ය සාධන හා ලේඛන කළමනාකරණ පද්ධතිය - විභාග අංශය")
 st.divider()
 
